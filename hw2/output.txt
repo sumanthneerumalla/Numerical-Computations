@@ -1,0 +1,76 @@
+fitting to data from thrust chart approximation
+n =  3
+maximum error is:  7.114049947
+Average error is:  1.23662180911
+RMS is:  5.53034085528
+
+n =  4
+maximum error is:  5.80675998296
+Average error is:  1.11281997717
+RMS is:  4.97668223134
+
+n =  5
+maximum error is:  4.92614104431
+Average error is:  1.10928479301
+RMS is:  4.96087240716
+
+n =  6
+maximum error is:  3.6366673601
+Average error is:  0.68859993392
+RMS is:  3.07951252309
+
+n =  7
+maximum error is:  3.53675057208
+Average error is:  0.673078924934
+RMS is:  3.01010046075
+
+n =  8
+maximum error is:  3.61455377575
+Average error is:  0.593558756224
+RMS is:  2.65447545511
+
+n =  9
+maximum error is:  3.04911078299
+Average error is:  0.592884020178
+RMS is:  2.65145794378
+
+n =  10
+maximum error is:  2.31432978762
+Average error is:  0.577639225537
+RMS is:  2.58328114954
+
+n =  11
+maximum error is:  1.7606231711
+Average error is:  0.454666495656
+RMS is:  2.03333038275
+
+n =  12
+maximum error is:  1.03410629202
+Average error is:  0.29497186656
+RMS is:  1.31915429016
+
+n =  13
+maximum error is:  0.58961382303
+Average error is:  0.172303892694
+RMS is:  0.770566433703
+
+n =  14
+maximum error is:  0.264000776156
+Average error is:  0.0891579617659
+RMS is:  0.398726526488
+
+n =  15
+maximum error is:  0.111046469501
+Average error is:  0.03670947687
+RMS is:  0.1641697714
+
+n =  16
+maximum error is:  0.0388902701709
+Average error is:  0.01292169365
+RMS is:  0.0577875707715
+
+n =  17
+maximum error is:  0.0101917022492
+Average error is:  0.0033469095522
+RMS is:  0.0149678345465
+
